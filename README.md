@@ -1,8 +1,8 @@
----
-
 # Vehicle Rental Shop
 
 Welcome to the **Vehicle Rental Shop** application! This project simulates a car rental service where users can rent and return vehicles, inquire about inventory, and check prices. The system supports both regular customers and VIP customers, offering VIP-specific pricing.
+
+---
 
 ## Features
 
